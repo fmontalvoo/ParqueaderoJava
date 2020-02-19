@@ -3,7 +3,7 @@
 **Autor:** Frank Montalvo Ochoa
 
 <p align="justify">
-Este es un proyecto algo viejo, el cual funciona para gestionar un parqueadero, el Sistema permite registrar clientes, generar tickets y facturas además de gestionar si los sitios se encuentran disponibles para que ingresen más vehículos. El sistema también implementa internacionalización lo que le permite intercambiar el lenguaje entre español e inglés.
+Este es un proyecto algo viejo, el cual funciona para gestionar un parqueadero, el sistema permite registrar clientes, generar tickets y facturas además de gestionar si los sitios se encuentran disponibles para que ingresen más vehículos. El sistema también implementa internacionalización lo que le permite intercambiar el lenguaje entre español e inglés.
 </p>
 
 <p align="justify">
